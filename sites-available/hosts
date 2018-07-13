@@ -1,0 +1,13 @@
+127.0.0.1       localhost.localdomain localhost
+127.0.0.1       relappro
+127.0.0.1       relappro.com
+127.0.0.1       mysql.relappro.com
+10.9.8.10       gitlab.relappro.net
+
+# Current hostname. Dont delete it, this one affects glassfish configuration.
+127.0.0.1       relap.com.mx
+
+# The following lines are desirable for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
